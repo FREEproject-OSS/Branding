@@ -1,0 +1,5 @@
+BACK: #2f4a81
+BAC2: #00b0f0
+ALRT: #ed254e
+INFO: #f9dc5c
+FINE: #29bf12
